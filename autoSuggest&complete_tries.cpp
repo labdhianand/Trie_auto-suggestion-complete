@@ -1,9 +1,8 @@
 /*
-    Aurthor: labdhi Anand
+    Aurthor: Labdhi Anand
 
     # AutoSuggestor and Completion for cross platform.
-    # Auto Completion on TAB press.
-    Tested in linux-> Manjaro and windows->11
+    # Auto Completion on TAB press
     // Add any word you want to dictionary.txt file
 */
 
